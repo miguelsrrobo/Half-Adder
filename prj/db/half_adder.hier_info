@@ -1,0 +1,9 @@
+|half_adder
+a => SOMA.IN0
+a => CARRY.IN0
+b => SOMA.IN1
+b => CARRY.IN1
+saida_soma <= SOMA.DB_MAX_OUTPUT_PORT_TYPE
+saida_carry <= CARRY.DB_MAX_OUTPUT_PORT_TYPE
+
+
